@@ -248,36 +248,11 @@ print(sim.compute_aggregate_metrics(results))
 "
 ```
 
-## 📚 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@article{behavioral_bias_dss_2025,
-  title={Integrating Behavioral Bias Modeling into AI-Based Decision 
-         Support Systems for Sustainable Investment Planning},
-  author={Research Team},
-  journal={Journal Name},
-  year={2025},
-  keywords={Artificial Intelligence, Decision Support Systems, 
-            Behavioral Bias Modeling, Sustainable Investment}
-}
-```
-
-## 📖 References
-
-1. Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica*, 47(2), 263-291.
-2. Petersen, K. (2023). Overconfidence bias and its impact on financial decision-making. *Journal of Behavioral Finance*, 24(2), 187-201.
-3. Shah, S., Zhang, T., & Zhang, Y. (2019). Does herding bias drive the firm value? *Sustainability*, 11(20), 5583.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- Research Team
-- Contact: [your-email@example.com]
+- Abtin Asghari - abtinasg@gamil.com
+- MohammadMehdi Mehraein - mohammadmehdimehraein@gmail.com
 
 ## 🙏 Acknowledgments
 
