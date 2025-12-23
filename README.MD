@@ -1,7 +1,6 @@
 # 🧠 Behavioral Bias Modeling in AI-Based Decision Support Systems
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Research Paper](https://img.shields.io/badge/Paper-Published-green.svg)](#citation)
 
 ## 📋 Overview
